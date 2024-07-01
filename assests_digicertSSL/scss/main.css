@@ -35,13 +35,6 @@ body {
   box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.288);
 }
 
-.background_random {
-  background: linear-gradient(to right, rgb(25, 26, 52), rgba(0, 0, 0, 0.66)), url(../img/window-vps-hosting/bg.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
 .logo-vertical i {
   font-weight: 600;
 }
@@ -174,7 +167,7 @@ body {
 }
 .row-design_gap h2 {
   font-size: 3.7rem;
-  color: #f4ff64;
+  color: #2e2e2e;
   font-weight: 700;
 }
 .row-design_gap h2 span {
@@ -188,7 +181,7 @@ body {
   position: relative;
 }
 .row-design_gap .first_section h2 span {
-  color: rgb(255, 255, 255);
+  color: rgb(231, 113, 0);
 }
 .row-design_gap .first_section .btn-design {
   background-color: #fc5a15;
