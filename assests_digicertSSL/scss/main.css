@@ -209,6 +209,8 @@ body {
 .row-design_gap .second_image {
   box-sizing: border-box;
   transition: all 0.3s ease-in;
+  display: flex;
+  justify-content: flex-end;
 }
 .row-design_gap .second_image img {
   opacity: 0.8;

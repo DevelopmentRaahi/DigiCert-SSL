@@ -295,8 +295,11 @@ $one_two_three_color :rgb(255 89 18);
         .second_image {
             box-sizing: border-box;
             transition: all 0.3s ease-in;
+            display: flex;
+                justify-content: flex-end;
 
             img {
+                
                 opacity: 0.8;
                 width: 90%;
                 // border-radius: 1rem;
