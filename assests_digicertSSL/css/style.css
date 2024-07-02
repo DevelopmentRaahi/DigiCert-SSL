@@ -4,14 +4,14 @@ body {
     margin: 0;
     padding: 0;   
     box-sizing: border-box;
-   font-family: "Poppins", sans-serif;
+    font-family: "Poppins", sans-serif;
 }
-html{
+/* html{
    font-size: 15px;
-}
+} */
 
 
-.navbar-nav a{
+/* .navbar-nav a{
     font-size: 1rem;
     font-weight: 400;
     font-family: "Lato", sans-serif;
@@ -87,7 +87,7 @@ html{
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
+} */
 footer {
     height: auto;
     /* background-color: #2f4e7e; */
@@ -108,7 +108,7 @@ footer ul>p {
     font-weight: 600;
 }
 @media  (min-width: 600px) and (max-width:900px){
-  footer ul>p {
+  footer ul > p {
     font-size: 1rem;
     
 }
@@ -672,6 +672,8 @@ footer,.footer-section{
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
+
+
 #services{
   margin: 0rem 0;
 }
