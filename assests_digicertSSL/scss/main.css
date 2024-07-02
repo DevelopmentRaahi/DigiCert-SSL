@@ -23,12 +23,14 @@ h6 {
 
 html {
   scroll-behavior: smooth;
-  font-size: 10px;
-  text-align: left;
+  font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
   font-family: "Roboto Condensed", sans-serif;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 .btn-design {
